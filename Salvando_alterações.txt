@@ -1,0 +1,10 @@
+Após criar um arquivo:
+
+1- Adicione -> git add "nome-do-arquivo"
+2- Comentário -> git commit -m "Informação sobre arquivo"
+3- Enviar p/ remoto -> git push 
+---------------------------------------------------------------------------------------
+Caso faça alteração pelo servidor remoto:
+
+1- Realizar procedimento de alteração
+2- No bash, utilizar o comando git pull para puxar alterações do remoto para local
