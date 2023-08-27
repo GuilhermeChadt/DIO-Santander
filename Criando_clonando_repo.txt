@@ -1,5 +1,5 @@
 1- Criar repositório via github
-2- Criar pasta local para utilização
-3- Acessar pasta via bash
+2- Criar pasta local para utilização (manual ou via bash)
+3- Criar e acessar pasta via bash
 4- Inicializar -> git init
 5- Clonagem -> git clone "URL-REPO"
